@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RestWebServicesExample</string>
+    <string name="serverResponse">Server Response(JSON) :</string>
+    <string name="parsedJson">Parsed JSON :</string>
+</resources>
